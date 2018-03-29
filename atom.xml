@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-28T09:46:10.154Z</updated>
+  <updated>2018-03-28T13:47:42.626Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,50 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>今天有点累！</title>
-    <link href="http://yoursite.com/2018/03/28/love/"/>
-    <id>http://yoursite.com/2018/03/28/love/</id>
-    <published>2018-03-28T09:40:56.000Z</published>
-    <updated>2018-03-28T09:46:10.154Z</updated>
-    
-    <content type="html"><![CDATA[<p>无所谓啦</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;无所谓啦&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>article title</title>
-    <link href="http://yoursite.com/2018/03/27/article-title/"/>
-    <id>http://yoursite.com/2018/03/27/article-title/</id>
-    <published>2018-03-27T08:53:51.000Z</published>
-    <updated>2018-03-28T09:50:18.733Z</updated>
-    
-    <content type="html"><![CDATA[<p>去问问吧~</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;去问问吧~&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>世界，你好</title>
