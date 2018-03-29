@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[今天有点累！]]></title>
+    <url>%2F2018%2F03%2F28%2Flove%2F</url>
+    <content type="text"><![CDATA[无所谓啦]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[article title]]></title>
+    <url>%2F2018%2F03%2F27%2Farticle-title%2F</url>
+    <content type="text"><![CDATA[去问问吧~]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[世界，你好]]></title>
+    <url>%2F2018%2F03%2F27%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[欢迎来到 Hexo! This is your very first post. Check documentation for more info. 如果你有任何疑问 when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
