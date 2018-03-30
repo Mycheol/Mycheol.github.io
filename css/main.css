@@ -1926,7 +1926,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff81;
+  background: #599d7e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3208,7 +3208,7 @@ ul.breadcrumb li+li:last-child {
   cursor: url("/images/cursor.ico"), auto !important;
 }
 body {
-  background: url("/images/bg.jpg");
+  background: url("/images/bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
